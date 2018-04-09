@@ -1,0 +1,23 @@
+---
+title: "Derecho Civil I"
+author: "Hedley Knewjen Quintana"
+output: word_document
+---
+#Datos de la materia:
+
+#Primera clase
+
+##Hora de inicio
+
+```{r, echo=T}
+Sys.time()
+```
+
+
+
+
+##Hora de fin
+
+```{r, echo=T}
+Sys.time()
+```

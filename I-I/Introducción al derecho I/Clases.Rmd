@@ -1,0 +1,25 @@
+---
+title: "Introducción al derecho I"
+author: "Hedley Knewjen Quintana"
+output: word_document
+---
+#Datos de la materia:
+Prof. Calixto Malcolm
+Idoneidad 253 19/Mayo/1976
+Magistrado superior titular del Primer Tribunal Marítimo (anterior??)
+
+#Primera clase
+
+##Hora de inicio
+
+```{r, echo=T}
+format(Sys.time(), "%a %b %d %X %Y")
+```
+
+
+
+##Hora de fin
+
+```{r, echo=T}
+format(Sys.time(), "%a %b %d %X %Y")
+```
