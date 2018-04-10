@@ -4,20 +4,298 @@ author: "Hedley Knewjen Quintana"
 output: word_document
 ---
 #Datos de la materia:
+Prof. Javier Mitil
+Número de idoneidad: 1723, 20 de abril de 1988
+Maestría en derecho procesal, derecho de trabajo, especialidad en constitucional
+y realiza el doctorado.
+http://laestrella.com.pa/panama/nacional/quien-javier-mitil-defensor-encargado-puesto-patria/23492813
+
 
 #Primera clase
 
 ##Hora de inicio
 
 ```{r, echo=T}
-Sys.time()
+#Sys.time()
 ```
 
+##Evaluación
+Una charla, un parcial, tra ... ver abajo
 
+```{r, echo=T}
+#Sys.time()
+```
 
+##Moviemiento estudiantil
+
+Conciencia renovadora interrumpe la clase. Ellos explican el procedimiento de retiro e inclusión.
+```{r, echo=T}
+#Sys.time()
+```
+
+##Evaluación
+
+Trabajo en equipo 25%, un parcial 25%, asistencia y participación 10%, examen final 40%.
+
+##Libro
+El día lunes se expondrá libro de derecho civil de Valencia.
+
+##TEmario
+Clasificaciones del derecho, codificaciones (Roma, Francia, España, Colombia y cambios que ha sufrido el código civil de Pty). Interpretación de la ley y naturalmente el Código civil.
+
+##¿Qué es la ley?
+
+Sulema: 
+
+Hedley: Conjunto de normas de debemos seguir
+
+??: La ley superior, coacción
+
+Joaquín Navarro: Impide el libre albedrío 
+
+Sulema: 
+
+Alma: distinas normas que establece, para que haya un orden
+
+Rey: leyes son para que se cumplan que nos obligan para comportarnos para evitar sanciones
+
+??: Reglas y principios basados en la sociedad
+
+RAmón: Conjunto de normas para el bien común
+
+Evelíbn:Reglas y normas para que las personas sepan qie de
+
+NAtasha:PAra que todos los ciudadanos las cumplamos
+
+:Normas que debemos seguir ciertos parámetros para no caer en problemas
+
+:La ley tiene que ver con normas y derechos.
+
+Helen: Respetar lo que se dice?? no tener objeción
+Escobar: Conjunto de normas para tener un balance de lo bueno y lo malo
+
+Jeremy Jones: Son nomras que regulan el acutar de las personas
+
+Gabriel: es el conjunto de reglas que rigen a la sociedad establecidas
+
+:Peronsas que vieron el caos, todas las personas deben cumplir para el bien comun
+
+: Normas y reglamentos qyue debe seguir el ciudadano, para no caer en falta
+justo herrera: La ley son principios, deberes y derechos para un bien comun
+:La ley es un conjunto de reglamentos para que las personas sean sometidas
+:Procedimientos a seguir
+:La ley son principios que se deben cumplir, sin leyes NO hay respeto
+: La leyes son procedimientos aprobados por un ministerio, para las situaciones que ocurre en la sociedad.
+Zuleika: Obligaciones que debemos cumplir para evitar el caos
+
+#El profe
+
+El opina que estamos orientada: fase "imperativa", el **conjunto de normas**==**derecho**, la ley es UNA norma. La finalidad de la ley es para crear un orden. Cada vez que el estado legisla, **entregamos parte de la libertad**.
+La ley estable dos premisas: **un acontecimiento** y **una consecuencia penal**.
+
+##Excepciones de la ley
+
+La ley siempre es **genérica**, pero puede hacer **leyes específicas**. La aplicabilidad de la ley es en general: aplica a todos, con excepciones: **el diplomático** la ley penal que se aplica es la de su país; **el presidente**, los **diputados**, los **magistrados** y **demencia** ("psiquiatría"), **menor de 12 años**, **los indígenas**\*\* (¡menores de edad!), **la legítima defensa**, **legítima defensa putativa** (No hay ninguna amenaza para el que es amenazado, pero se confunde y **Trastorno mental transitorio** --**TMT**--).
+
+\*\*La justicia penal aplica. En los indígenas, la costumbre es **fuente** del derecho
+
+La violación de la ley: "represión por parte del hombre" y la violación de ley divina: "castigo".
+
+##Territorialidad y efectos retroactivos
+
+La ley actúa de forma **territorial**. La ley tiene efecto retroactivo cuando es favorable al reo (art. 3, del código civil), cuando la ley lo dice o por **"interés social"** ("interés hipotecarios"<- la ley debe DECIRLO).
+
+**Diccionario jurídico de derecho** Guillermo Cabanellas -Para investigaciones-
+**Diccionario jurídico de derecho** Manuel Osorio -Para investigaciones-
+**Diccionario jurídico de derecho** Escriché -Para investigaciones-
+**Google académico** <- <-
+
+##Grupo de WhatsApp
+
+Debates.
+
+javier.mitil\@gmail.com
+
+##Tarea para mañana
+
+1-Derecho
+2-Ley
+3-Coacción
+4-Coerción
+5-Código Civil
+6-Religión
+7-Moral
+8-Sanción
+9-Promulgación
+10-Leyes ordinarias
+11-Leyes orgánicas
+12-Extralimitación
+13-Derecho privado
+14-Derecho público
+15-Derecho social
+16-Derecho penal
+17-Obligaciones
+18-Contrato
+19-Extinción de las obligaciones
+20-Objeto del contrato
+21-Consentimiento
+22-Dolo
+23-Culpa
+24-Error
+25-Negligencia
+26-Buena Fe
+27-Acción
+28-Causa (del contrato)
+29-Naturaleza jurídica
+30-Derecho comparado:: NLTK??
 
 ##Hora de fin
 
 ```{r, echo=T}
-Sys.time()
+#Sys.time()
 ```
+
+#Segunda clase
+
+##Tarea:
+1-Derecho (p 294):
+  "Tomado en su sentido etimológico, Derecho proviene del lat. directum (directo, derecho); a su vez, del lat. dirigere (enderezar, dirigir, ordenar, guiar). En consecuencia, en sentido lato, quiere decir recto, igual, seguido, sin torcerse a un lado ni a otro, mientras que en sentido restringido es tanto como ius (v.).
+
+  Por eso, de esta voz latina se han derivado y han entrado en nuestro idioma otros muchos vocablos: jurídico, lo referente o ajustado al Derecho; jurisconsulto, que se aplica a quien, con el correspondiente título habilitante, profesa la ciencia del Derecho, y justicia, que tiene el alcance de lo que debe hacerse según Derecho y razón. Es, pues, la norma que rige, sin torcerse hacia ningún lado, la vida de las personas para hacer posible la convivencia social.
+	A.  *Enfoques individualistas y sociológicos.* De todos modos, no se trata de un concepto uniformemente definido. Para algunos es un conjunto de reglas de conducta cuyo cumplimiento es obligatorio y cuya observancia puede ser impuesta coactivamente por la autoridad legítima. Ihering lo define como el conjunto de normas según las cuales la coacción es ejercida en un Estado. Esa idea, más que un concepto filosófico del vocablo, parecerfa referirse a una estimación del Derecho positivo, que quedaría limitada a las normas legales y consuetudinarias. Mas, aun dentro de tal limitación, se advierte la inexistencia de una conformidad en la definición de lo que es el Derecho; en primer término, porque se presenta una diferencia fundamental, según el punto de vista desde el que sea considerado: individualista o sociológico. Son varios los autores que se han expresado acerca del sentido individualista del Derecho. Si nos atenemos a la apreciación de Kant, es "el complejo de las condiciones por las cuales el arbitrio de cada uno puede coexistir con el criterio de todos los demás, según una ley universal de libertad". A su vez, Ahrens lo define como "el conjunto de condiciones dependientes de la voluntad y que son necesarias para poder realizarse todos los bienes individuales y comunes que integran el destino del hombre y de la sociedad". Todavía es más acentuada, en esa misma dirección, la idea de Wolff, quien afirma que el Derecho, como deber perfecto que es, tiene por objeto eliminar cuanto impida el recto uso de la libertad humana. Y para Giner de los Ríos es "el sistema de los actos o prestaciones en que ha de contribuir cada ser racional, en cuanto de él depende, a que su destino y el destino de todos se efectúe en el mundo". Es, dice Josserand, "la conciencia y voluntad colectivas, que sustituyen a las conciencias, a las voluntades individuales para determinar las prerrogativas, los derechos subjetivos de cada uno, y, en tal sentido, puede decirse que es la regla social obligatoria". El criterio sociológico, opuesto al precedente, uno de cuyos partidatios es Duguit, estima que el Derecho es la regla de conducta impuesta a los individuos que viven en sociedad, regla cuyo respeto se considera, por una sociedad y en un momento dado, como la garantía del interés común, cuya violación produce contra el autor de dicha violación una reacción colectiva. Ihering, anteriormente citado, pretende que es "la garantía de las condiciones de la vida de la sociedad, asegurada por el poder coactivo del Estado". La Fur, a su turno, sostiene que el Derecho no es otra cosa que una regla de vida social, que la autoridad competente impone "en vista de la utilidad general o del bien común del grupo, yen principio provista de sanciones para asegurar su efectividad". Entre una y otra tendencia, individualista y sociológica, surge un criterio ecléctico, pues algunos autores, como Castán, tratan de conciliar ambas tendencias y para conseguirlo éste lo define como "el sistema de normas fundadas en principios éticos susceptibles de sanción coercitiva que regulan la organización de la sociedad y las reacciones de los individuos y agrupaciones que viven dentro de ella, para asegurar en la misma la consecución armónica de los fines individuales y colectivos". No es del caso entrar a considerar cuál de esas tres tendencias es la más acertada; entre otras razones, porque ello depende de la apreciación subjetiva que cada uno haga, posiblemente basada en criterios no ya filosóficos, sino también políticos y sociales. Lo único que interesa destacar es que, para todas ellas, el Derecho tiene siempre por objeto posibilitar el Derecho Derecho cumplimiento de los fines humanos, tanto si se considera que los individuales deben prevalecer sobre los colectivos, como si, al contrario, se entiende que los colectivos tienen primacía sobre los otros.
+
+	B.  *Especies.* Considerado el tema desde otro punto de vista, parece indudable que las normas de convivencia pueden estar basadas o en una idea inmanente de lo que deben ser las normas rectoras de la conducta humana, entendidas según los principios de lo justo y de lo injusto, y entonces se estará dentro del ámbito del Derecho Natural, o en el conjunto de normas establecidas para regir dicha convivencia, y entonces se estará dentro del ámbito del Derecho positivo. Problema fundamental y jusfilosófico ha sido el de determinar si el Derecho Natural puede, o no, ser considerado como verdadero Derecho. Lo niega Recasens Siches con estas palabras: "Llamar Derecho al Derecho Natural -es decir, a unas normas puramente ideales o racionales dotadas de intrínseca y necesaria validez- es usar la palabra Derecho en sentido figurado traslaticio", pues, sin desconocer el valor de aquéllas, no tienen otro alcance que el de "inspirar y dirigir la elaboración del Derecho; son consiguientemente, además, los criterios bajo cuya luz podemos y debemos enjuiciar críticamente la realidad de un determinado momento histórico".
+
+	C.  *Fines y funciones.* Ihering, al abordar el problema relativo al fin del Derecho, afirma que, si se tiene en cuenta que el fin de los actos del ser animado es la realización de sus condiciones de existencia, se puede decir que el Derecho representa la forma de la garantía de las condiciones de vida de la sociedad. Cabría también referirse a las condiciones de vida del hombre en sociedad, siendo esta distinción de notoria importancia, puesto que se vincula con los criterios sociológico e individualista ya mencionados. Cuestión importante es también la que afecta a la determinación de la función específica del Derecho, a cuyo respecto puede decirse que consiste en dirimir los conflictos que se suscitan entre personas físicas o jurídicas, particulares o públicas, y con arreglo a normas establecidas y de obligatorio cumplimiento, dentro de una sociedad organizada y como medio de impedir una resolución de las contiendas mediante el empleo de una violencia con la que el más fuerte se impondría a los más débiles. Bien se comprende que ese sistema basado en la mayor fortaleza mantendría a la colectividad en un régimen de barbarie, incompatible con la civilización y el progreso.
+
+	D.  *Lo objetivo y lo subjetivo en lo jurídico.* Naturalmente que cuanto queda dicho se halla referido al Derecho en sentido objetivo; es decir, a la existencia de principios y normas que regulan la convivencia humana, y que es considerado desde el punto de vista individual y colectivo. Ahora bien, del precitado Derecho Objetivo se desprende un Derecho subjetivo, que alude ala facultad que las personas físicas o jurídicas tienen no solo para realizar determinados actos, sino también para exigir que otras personas de igual índole, sin excluir al Estado, no les impidan realizar lo que la ley permite o no prohibe. El Derecho Objetivo es la norma agendi o norma para actuar, mientras que el Derecho subjetivo es la facultas agendi o facultad de actuar. Para Azcárate y Rosell, siendo el Derecho una tendencia a coordinar aspiraciones fundamentales, es lógico que contenga el instrumento armonizador, que es la norma o Derecho Objetivo, y las aspiraciones que son armonizadas o Derecho subjetivo.
+
+	E.  *El elemento coactivo.* Relacionado en cierto modo con lo dicho respecto a la condición del Derecho Natural, surge la cuestión, por cierto muy debatida en doctrina, de si la coactividad o coercibilidad constituyen requisito esencial del Derecho. Unos autores sostienen que no hay Derecho si no puede ser exigido coactivamente; otros entienden que ambos términos, Derecho y coacción, juegan con absoluta independencia. Es muy probable que la respuesta esté condicionada a que se considere tan sólo el Derecho Natural o tan sólo el Derecho positivo, pues, en un sentido filosófico y abstracto, cabe hablar de un Derecho que no requiera la coercibilidad, puesto que se trata de principios idealmente rectores de las relaciones humanas. Mas, si se habla del Derecho positivo, destinado a gobernar la convivencia social, es inadmisible que no necesite de la coacción; o sea. de la posibilidad de su imposición frente a quienes traten de desconocerlo. De otro modo sería letra muerta, porque carecería de eficacia, lo que equivale al reconocimiento de su inexistencia. Es ésa la opinión de Ihering cuando señala que "la coacción ejercida por el Estado constituye el criterio absoluto del Derecho, ya que una regla de Derecho desprovista de coacción jurídica es un contrasentido; es un fuego que no quema, una antorcha que no alumbra". Para él no son Derecho las normas que no pueden exiDerecho Derecho girse coactivamente por la autoridad, aun cuando fueren universalmente obedecidas: "Sólo llegan a serlo cuando el elemento exterior de la coacción pública se les agrega". Kant no es menos categórico cuando expresa que el Derecho es coactivo en sí mismo, porque, si no estuviese acompañado de la coacción, no cumplirfa su objeto de mantener la unidad en el reino de los fines. En igual sentido, aunque con otras palabras, se pronuncian Del Vecchio. Recasens Siches, Stammler, Holzendorff, Geny, Kelsen y Kohier. Contrariamente, otros muchos autores, entre ellos Jellinek, Giner de los Ríos, Merkel, Posada, Windscheid y Bonilla San Martín, han negado que la coercibilidad sea indispensable al Derecho. Cathrein ha sostenido concretamente que "si la coacción viene detrás del Derecho, teniéndolo como fin y como objeto, no será nunca un elemento esencial del mismo, sino algo que desde fuera se le asocia y viene en su ayuda". Otros argumentos apoyan esta tesis, como el que señala la existencia de un Derecho Internacional, que regula o trata de regular las relaciones entre los diversos Estados, pese a carecer de elementos coactivos, porque la guerra no solo no es el elemento coactivo en que se apoya el Derecho Internacional, sino que tampoco representa precisamente la negación de tal Derecho. Se dice también que la coacción no entra en apoyo del Derecho sino cuando éste es perturbado, sin que sea necesario que esa perturbación se produzca. Es decir que el Derecho existe sin el elemento coaccionante mientras la infracción no tiene lugar. No faltan tampoco quienes, con dudoso acierto, tratan de probar que la coercibilidad no es esencial al Derecho, basándose en la circunstancia de que, pese ala realidad de las relaciones jurídicas entre el Estado y los particulares, éstos no tienen medios coactivos de obligar a aquél al cumplimiento de sus obligaciones. Si se examinan los argumentos aducidos en pro de la existencia de un Derecho sin coacción, parece que el único valido es el que sostiene que la coercibilidad no es el Derecho en sí, sino el elemento que garantiza su efectividad. Enunciado así el problema, se advierte en seguida la diferencia entre ambos conceptos: si una cosa garantiza a otra, es porque la primera existe, ya que no cabría dar efectividad a una cosa inexistente. Las fuerzas de la naturaleza son útiles al hombre en cuanto éste pueda captarlas en su beneficio, mas el hecho de que no pueda emplearlas, y aun de que las desconozca, no quiere decir que no existan.
+
+	F.  *La coerción jurídica en la práctica.* Saliendo ahora del aspecto puramente filosófico y emplazando el tema en su aspecto práctico, resulta evidente que, desde el punto de vista subjetivo, no existen derechos (de signo positivo o negativo) cuya realización no esté respaldada por la fuerza de una sanción, pues los ejemplos citados en contrario son poco convincentes. Se dice que un derecho no susceptible de coacción es el que se tiene frente al deudor insolvente o al delincuente prófugo, así como el que afecta a las obligaciones de hacer. El razonamiento es por completo erróneo: el deudor insolvente puede ser constreñido mediante apremios personales (como ya se hizo en épocas pasadas) o mediante inhabilitaciones para ciertos actos o para el ejercicio de ciertos derechos; el prófugo no es que no pueda ser constreñido, sino que no se lo encuentra para aplicarle la sanción, y en las obligaciones de hacer, la coacción queda determinada por la sustitución en indemnización de daños y perjuicios. Se alega también que otro caso de derecho sin coacción es el que afecta a la relación entre el Estado y los particulares, carente de fuerza coercitiva a favor de estos últimos. Esto tampoco es cierto, por lo menos de un modo absoluto; pues la jurisdicción contencioso-administrativa se encamina precisamente a que los tribunales de justicia impongan coactivamente al Estado el cumplimiento de sus obligaciones incumplidas o de las normas vulneradas en perjuicio de los particulares. Y en lo que al Derecho Internacional se refiere, se puede sostener no que exista pese a no estar amparado por la coacción, sino que no existe un Derecho Internacional y que lo procedente sería hablar de hechos internacionales. Precisamente de lo que tratan juristas y políticos es de convertir esos hechos en un Derecho, creando a tal fin organismos internacionales que fijen las normas de relación entre los Estados, pero que tengan también la facultad de interpretarlas judicialmente y la fuerza material necesaria para imponer sus fallos (tribunales y ejércitos internacionales).
+
+	G.  Derecho y moral. Otro de los temas trascendentales en lo que al Derecho se refiere es su vinculación con la moral. El hombre, de acuerdo con el concepto de Thomasio, actúa en una esfera externa que afecta al bien público, y en la cual el Estado puede ejercer su coacción, y en otra interna, en la que no cabe la coacción, porque atañe al bien individual. Aquélla es la esfera del Derecho y ésta es la de la moral. Relaciónanse ambos campos con la conducta humana y es ése su punto de conexión, tanto más Derecho a la cosa Derecho Administrativo del Trabajo evidente por cuanto que uno y otro se han de asentar en principios de ética, pues, así como resulta inconcebible una moral inmoral, tampoco es admisible un Derecho inmoral. Con este concepto no se está propugnando ni la inmutabilidad ni la uniformidad del Derecho, ya que los principios éticos son diferentes en el espacio y cambiantes en el tiempo. El divorcio, la poligamia, la poliandria, e incluso la prostitución, serán juzgados de distinta manera en los países que los admiten y en los que los rechazan, sin que tampoco los puntos de vista al respecto sean hoy iguales a los de las edades pasadas. La diferencia entre la moral y el Derecho está, a juicio de Recasens Siches, en que "la norma moral enjuicia la conducta a la luz de los valores supremos hacia los cuales debe orientarse la vida humana", ala cual "toma en sí misma, en su plenitud, centrándola en su auténtica y más radical significación, atendiendo a su supremo destino o misión y contemplándola en su auténtica realidad, que es siempre la realidad individual, única, singular e intransferible", en tanto que "la norma jurídica enjuicia y regula el comportamiento humano desde el punto de vista de las repercusiones de éste en otras personas y en la sociedad". Partiendo de esa distinción, no es posible desconocer que pueda haber ciertos actos lícitos en el sentido de que la ley no los prohibe, pese a que puedan ser inmorales: todos los actos que no excedan de la esfera del pensamiento son lícitos, aun cuando no todos los pensamientos son morales.
+
+	H.  Lu órbita jurídica. De cuanto queda expuesto se deduce que las relaciones objetivamente reguladas por el Derecho y los derechos subjetivos que afectan a las personas físicas o jurídicas ofrecen diversos matices: regularán unas veces las relaciones entre personas particulares; otras, las de éstas con el Estado; otras, se derivaran de las infracciones punibles a la norma jurídica; otras, en fin, señalaran el procedimiento judicial para dirimir las discordias. Todavía todos esos aspectos pueden contener otras muchas subdivisiones, impuestas en ocasiones por la creciente complejidad de la vida, y otras por un excesivo prurito de especialización entre los juristas. A continuación, y no por orden de importancia sino alfabéticamente, se definen las ramas principales del Derecho y sus aspectos subjetivos capitales."
+
+
+2-Ley (p. 574):
+  "Constituye la ley una de las fuentes, tal vez la principal, del Derecho. En sentido amplio, se entiende por ley toda norma jurídica reguladora de los actos y de las relaciones humanas, aplicable en determinados tiempo y lugar. Dentro de esa idea, sería ley todo precepto dictado por  autoridad competente, mandando o prohibiendo una cosa en consonancia con la justicia y para el bien de los gobernados. Así, entrarían dentro dentro del concepto no solo la ley en sentido restringido o propio, como norma jurídica elaborada por los órganos estatales con potestad legislativa, que en los regímenes constitucionales son el Congreso que la sanciona y el jefe del Estado que la promulga, sino también los reglamentos, ordenanzas, órdenes, decretos, etc., dictados por una autoridad en ejercicio de sus funciones. 
+  
+  La ley, tanto en su sentido amplio como en un sentido estricto, es necesaria para la convivencia humana, ya que no se concibe la subsistencia de una sociedad organizada carente de norma jurídica, cualquiera sea la institución que la establezca, si bien sería discutible hasta qué punto podría ser denominada ley la mera imposición por la violencia de una conducta determinada por la voluntad de quienes ostentan la fuerza, y en contra de la de quienes la padecen. 
+  
+  La ley, en la moderna teoría general del Derecho, puede ser tomada en dos aspectos: uno formal, que se refiere a la que ha sido dictada por el Poder Legislativo conforme a los procedimientos específicamente preestablecidos, y otro material, que alude a toda norma jurídica cuyo contenido regula una multiplicidad de casos, haya sido dictada o no por el órgano legislativo. Esta división coincide con la antes expuesta sobre los conceptos amplio y estricto de la ley.
+  
+  Entre los caracteres que suelen atribuirse a la ley están los siguientes: que sea justa, que vaya encaminada al bien público considerado en el momento histórico en que se dicta, que sea auténtica, que haya sido dictada por autoridad legítima y competente; que sea general, lo que equivale a su establecimiento en beneficio de todos y para observancia de todos los miembros sociales, con independencia de la calidad y condición de cada uno de ellos, a fin de que considere no a los individuos, sino las acciones en sí mismas, y que sea obligatoria, puesto que se hace para su cumplimiento, que debe ser coactivamente impuesto por el Estado. En ese sentido, la discusión establecida respecto a si la coactividad es o no requisito esencial del Derecho no es aplicable ala ley; o sea, al Derecho en su aspecto positivo. 
+  
+  La ley es susceptible de las mismas divisiones que el Derecho objetivamente considerado, por lo cual puede ser constitucional, civil, comercial, laboral, penal, etc. En otro aspecto, las leyes pueden ser imperativas y prohibitivas, según que manden o prohíban hacer alguna cosa, y si bien algunos autores hablan de leyes permisivas, otros niegan su existencia, ya que las que o permitir algo, sino regular la garantía bajo la cual debe obrar quien se aprovecha del permiso.
+  
+  Las leyes sólo pueden ser derogadas por otras posteriores emanadas del órgano legislativo competente." 
+
+3-Coacción ver Coerción
+4-Coerción:
+
+  "Término forense que significa acción de coercer: contener, refrenar o sujetar. Aunque es frecuente equiparar los términos coerción y coacción, ofrecen matices diferenciales, porque esta segunda expresión tiene dos significados generales que repercuten en la interpretación jurídica. De un lado, fuerza o violencia que se hace a una persona para precisarla a que diga o ejecute alguna cosa, y en este sentido su empleo origina múltiples consecuencias de orden civil, ya que los actos ejecutados bajo coacción adolecerían del vicio de nulidad, y en el orden penal, porque daría lugar a diversos delitos, especialmente los atentatorios contra la libertad individual. De otra parte, según la definición de la Academia de la lengua, es el empleo habitual de fuerza legítima que acompaña al Derecho para hacer exigibles sus obligaciones y eficaces sus preceptos. Esta segunda acepción, que para algunos autores encaja mejor en la coerción que en la coacción, tiene importancia extraordinaria, porque afecta al debatido problema jurídico-filosófico de si la coercibilidad es, o no, requisito indispensable al Derecho, tema considerado ampliamente en la VOZ DERECHO (V.)." 
+  
+5-Código Civil:
+
+  "Código Civil, en el que se establecen normas relativas al régimen de las personas, de
+la familia, de las obligaciones, de los hechos y actos jurídicos, de los contratos, de los derechos reales y de las sucesiones"
+
+6-Religión (p. 833):
+  "Según la Academia, "conjunto de creencias o dogmas acerca de la divinidad, de sentimtentos de veneración y temor hacia ella, de normas morales para la conducta individual y social y de prácticas rituales, principalmente la oración Y el sacrificio para darle culto". Abordando sintéticamente algunos aspectos de la religión en el Derecho, G. Cabanellas y L. Alcalá-Zamora declaran que es todavía causa modificativa de la capacidad jurídica. Así, para ser rey o reina de Inglaterra se exige pertenecer a la Iglesia Anglicana, y en especial no ser católico. Para ser jefe del Estado constitucional en la Argentina: hay que ser católico, al menos por el signo inicial del bautismo. Además, la religión determina la forma canónica inexcusable para casarse en algunos países; como España, para el matrimonio entre bautizados. En el plano constitucional general, los pueblos se diversifican entre los que prohíben o prohibían la práctica religiosa (Rusia satélites o imitadores), los que imponen una religión oficial (la Argentina, por ejemplo) y los que se pronuncian, hoy mayoría abrumadora, por la libertad de cultos (v.)."
+
+7-Moral:
+  "Dícese de lo que no cae bajo la jurisdicción de los sentidos, por ser de la apreciación del entendimiento o de la conciencia, y también de lo que no concierne al orden jurídico, sino al fuero interno o al respeto humano (Dic. Acad.). Lo anterior, como adjetivo, poco orientador del substantivo. Como tal, entiende por moral, la misma corporación del idioma, la ciencia que trata del bien en general, y de las acciones humanas en orden a su bondad o malicia. | Además, conjunto de las facultades del espíritu, por contraposición a físico. En cuanto a la diferencia, oposición y nexos entre moral y Derecho, v. esta última voz."
+
+8-Sanción:
+  "Al Derecho Procesal Civil y es la consecuencia jurídica desfavorable que el incumplimiento de un deber produce en relación con el obligado (Couture).
+  Al Derecho Político, si bien con respecto a éste las definiciones son discrepantes, posiblemente porque están referidas a distintos regímenes políticos y a normas constitucionales diferentes. El Diccionario de la Academia dice que es el acto solemne por el que el jefe del Estado confirma una ley o estatuto. Escriche hace igual definición que el Diccionario, pero omite cuál sea el organismo sancionador. Cabanellas recoge el concepto de la Academia en cuanto atribuye la sanción al jefe del Estado, y añade "o por quien de hecho ejerce sus atribuciones". Para Capitant es el acto por el cual el monarca, considerado como de igual o superior jerarquía respecto de las Cámaras, presta su asentimiento a la ley votada por el Parlamento, idea que se encuentra asimismo en Guillien y Vincent.
+  Frente a ese criterio, aparece el de quienes atribuyen la sanción de las leyes al propio órgano legislativo que las ha dictado. Por eso dice Couture que es "la aprobación que se da por una de las Cámaras que componen el órgano legislativo, o por éste en su conjunto, a un proyecto de ley". Ramírez Gronda expresa que "en el proceso de la formación de las leyes, la sanción es el acto por el cual el Congreso, las legislaturas, etc., aprueban un proyecto de ley". Finalmente, J. C. Smith, explica que, "en la literatura jurídica constitucional argentina, la sanción es el acto por el cual el Poder Legislativo (es decir, ambas Cámaras en conjunto) aprueban un proyecto de ley". La doctrina y las Constituciones que atribuyen la función sancionadora de las leyes al propio órgano legislativo que las ha dictado, reservan al jefe del Estado la misión de promulgarla o de ejercer su derecho de veto (V).
+  Al Derecho Penal, porque para él, y dejando aparte el debatido tema puramente teórico de la existencia de sanciones premiales, la sanción es la pena o castigo que la ley prevé para su aplicación a quienes incurran o hayan incurrido en una infracción punible. (V. PENA.)"
+
+9-Promulgación
+ "Acción y efecto de promulgar, de publicar formalmente una ley u otra disposición de la autoridad, a fin de que sea cumplida y hecha cumplir como obligatoria. Pero, corrientemente, en el léxico jurídico esa expresión está reservadaal decreto que el jefe del Estado, cuando no hace uso de su facultad de veto (v.), suscribe con el ministro refrendatario, ordenando la publicación y ejecución de una ley sancionada por el Poder Legislativo. La Constitución de la Argentina establece un plazo de diez días para que el Poder Ejecutivo haga la promulgación, pasado el cual, sin haberlo efectuado o sin haber devuelto el proyecto de la ley a la Cámara, se reputa automáticamente aprobado y promulgado; es decir, convertido en ley."
+ 
+10-Leyes ordinarias
+  "La común o civil en cuanto no es ni privilegiada en relación con una persona ni para un estado."
+  
+11-Leyes orgánicas
+  "La que, derivando inmediatamente de la Constitución, tiene como finalidad la organización
+de una rama de la administración pública."
+
+12-Extralimitación
+  "No se encuentra en el diccionario de Osorio"
+
+13-Derecho privado y 14-Derecho público
+  "Diversas teorías han tratado de explicar la diferencia fundamental que origina esta clasificación del Derecho en Público y Privado: así, algunos autores ven en el primero normas de organización de la sociedad, y en el segundo, normas de conducta de los individuos que la integran; otros hacen mención de los sujetos a quienes se dirigen uno y otro; sería el Estado el sujeto del Derecho Público, y lo sería del Derecho Privado el individuo. Otros basan la diferencia en una concepción teleológica o finalista: cuando el fin perseguido es el interés del Estado, estaremos en el campo publicista; cuando lo es el interés del individuo, en el privatista.
+  
+  Si bien los autores no se han puesto de acuerdo sobre el fundamento de esta división, concuerdan en cuanto a las características de uno y otro. El Derecho Público sería fundamentalmente irrenunciable; en el Derecho Privado, los individuos pueden, o no, ejercitar las facultades que les corresponden. El Derecho Público es imperativo, mientras que en el Privado priva el principio de la autonomía de la voluntad. La interpretación del Derecho Público es estricta, las facultades deben ser establecidas expresamente, y en el Derecho Privado, los individuos están facultados para hacer todo aquello que la ley no les prohíbe expresamente. 
+  En general, se consideran ramas del Derecho Público los Derechos Constitucional, Administrativo, Penal, Financiero y Procesal, y del Derecho Privado. los Derechos Civil, Comercial y Laboral. Pero no puede hacerse una clasificación muy exacta, pues en todas estas ramas hay instituciones de uno y otro, y, hoy por hoy, existe marcada tendencia al publicismo en las instituciones del Derecho Privado; tan marcada, que muchos autores niegan directamente la diferencia, alegando que es contradictorio hablar de Derecho Privado, ya que el Derecho, por definición, tiene una función colectiva."
+
+15-Derecho social
+  "Si bien todo Derecho tiene carácter social, corriente e impropiamente se da esa denominación, incluso por autorizados tratadistas, al Derecho del Trabajo (v.)."
+  
+16-Derecho penal
+  "Conforme a la acepción contenida en el Diccionario de la Academia, el que establece y regula la represión y castigo de los crímenes o delitos por medio de la imposición de las penas, definición notoriamente equivocada, porque no cabría reprimir y castigar los delitos si previamente no se hubiesen determinado las acciones que han de considerarse delictivas. De ahí que el Derecho Penal lo primero que ha de hacer es fijar los bienes jurídicos que han de ser protegidos penalmente y, sobre esos principios, variables en el tiempo y en el espacio, configurar específicamente los delitos y establecer la nena que a cada uno de ellos corresponde. Otra cosa equivaldría a quebrantar el aforismo, respetado por todos los pueblos que defienden la libertad y la dignidad de las personas, de que no hay pena, como tampoco hay delito, sin previa ley que los establezca. En los tiempos actuales, sólo los regímenes totalitarios y tiránicos han declarado la posibilidad de imponer penas sin una configuración previa de los hechos a que se tienen que aplicar. 
+  
+  La apreciación precedente encuentra apoyo en la definición que Jiménez de Asúa da del Derecho Penal, cuando dice que es un "conjunto de normas y disposiciones jurídicas que regulan el ejercicio del poder sancionador y preventivo del Estado, estableciendo el concepto del delito como presupuesto de la acción estatal, así como la responsabilidad del sujeto activo, y asociando a la infracción de la norma una pena finalista o una medida aseguradora". R. C. Núñez lo define como "la rama del Derecho que regula la potestad pública de castigar y aplicar medidas de seguridad a los autores de infracciones punibles". Esta visión del Derecho Penal (enjuiciada en sus términos y sin tener en cuenta otras consideraciones del propio autor) tal vez adolezca del mismo defecto que la acepción expuesta por la Academia; es decir que circunscribe la disciplina de que se trata ala facultad de castigar a los autores de infracciones punibles; pero omite la expresión de que el Derecho Penal debe señalar, en primer término, cuáles son las infracciones punibles. Fontán Balestra dice que "es la rama del ordenamiento jurídico que contiene las normas impuestas bajo amenaza de sanción". Se advierte que en esta definición se contemplan los dos principales aspectos del Derecho Penal: la determinación de los hechos delictivos y su sancionabilidad." 
+  
+17-Obligaciones
+  "Deber jurídico normativamente establecido de realizar u omitir determinado acto, y a cuyo incumplimiento por parte del obligado es imputada, como consecuencia, una sanción coactiva; es decir, un castigo traducible en un acto de fuerza física organizada (J. C. Smith). Claro es que esta definición se encuentra referida a las obligaciones de orden legal, por cuanto hay también obligaciones morales, que no llevan aparejada ninguna sanción coactiva, sino que quedan sometidas ala conciencia del obligado por esa calificación social.
+     Jurídicamente, y en términos generales, puede decirse que las obligaciones admiten la siguiente división: a) de hacer, b) de no hacer, c) de dar cosas ciertas, d) de dar cosas inciertas, e) de dar sumas de dinero. La simple enunciación de esas obligaciones resulta suficiente para comprender su contenido. Se clasifican asimismo en principales, cuando subsisten por sí mismas; accesorias, cuando dependen o están vinculadas con la principal; puras, cuando no dependen de una condición; condicionales, cuando su cumplimiento depende de ciertas circunstancias, por lo que adquieren diversas modalidades (v. CONDICIÓN); divisibles, cuando también lo sea la cosa, el hecho o la abstención que ha de ser cumplida y siempre que tal fraccionamiento se encuentre permitido legal o convencionalmente, e indivisibles, en el supuesto contrario. Las obligaciones pueden ser también naturales, entendiéndose por tales las que se fundan en una causa suficiente para engendrar en una persona, y con respecto a otra, una prestación determinada, pese a que el legislador no las haya incluido entre las obligaciones civiles, por cuanto no dejan al titular del derecho ningún medio procesal para reclamarlas; civiles, que, contrariamente a las naturales, son aquellas cuyo cumplimiento puede ser exigido por vía legal; mancomunadas, cuando reconocen varios acreedores o varios deudores, no obstante estar representadas por una sola prestación; solidarias, cuando su cumplimiento puede ser íntegramente exigido por cada uno de los acreedores o de cada uno de los deudores, y a plazo, cuando su ejercicio está sujeto a un término suspensivo o resolutorio. Se llaman obligaciones alternativas cuando, conteniendo una pluralidad de obligaciones, el deudor queda librado de todas ellas mediante el cumplimiento de una sola, y son facultativas cuando, no teniendo por objeto sino una sola prestación, el deudor tiene la facultad de substituir por otra. En las voces inmediatas, a más de ampliar sobre las enunciaciones precedentes, se abordan otras especies obligacionales de interés. Las obligaciones exigen al menos dos sujetos: el que puede exigirlas: el acreedor, y el sometido al cumplimiento: el deudor. Cuando hay reciprocidad en los derechos y obligaciones se habla de partes, que adquieren nombres específicos, sobre todo en contrato (v.). Pero no es sólo el contrato una de las fuentes de las obligaciones (v.). Aparecen también, en el repertorio clásico, la ley, el delito, el cuasicontrato y el cuasidelito (V.). Señala L. Alcalá-Zamora que existe un proceso biológico completo para las obligaciones: tienen su origen o fuentes y su vida o contenido, pero poseen además su extinción. En este orden hay que citar: 1º) el pago o cumplimiento, 2º) la pérdida de la cosa debida, 3º) la condonación o remisión, 4º) la confusión de los derechos del acreedor con los deberes del deudor, 5º) la compensación, 6º) la novación, 7º) la transacción, 8º) la renuncia del derecho por el acreedor, 9º) el mutuo disenso, 10º) la condición resolutoria, 11º) el juramento decisorio, 12º) el término extintivo, 13º) en las obligaciones personalísimas, 14º) la prescripción. (V. las voces principales). La nulidad, para unos, es causa también de extinción obligacional; para otros, obstáculo para su origen."
+  
+18-Contrato
+  "Pacto o convenio entre partes que se obligan sobre materia o cosa determinada v a CUYO cumplimiento pueden ser compelidas (Dic. Acad.). En una definición jurídica, se dice que hay contrato cuando dos o más personas se ponen de acuerdo sobre una declaración de voluntad común, destinada a reglar sus derechos. Capitant lo define como acuerdo de voluntades, entre dos o más personas, con el objeto de crear entre ellas vínculos de obligaciones, y también documento escrito destinado a probar una convención. Los contratos han de ser celebrados entre personas capaces y no han de referirse a cuestiones prohibidas o contrarias a la moral o a las buenas costumbres. Los contratos lícitos obligan a las partes contratantes en iguales términos que la ley."
+
+19-Extinción de las obligaciones
+  Extinción
+  "Cese, cesación, término, conclusión, desaparición de una persona, cosa, situación o relación, y. a veces, de sus efectos y consecuencias también"
+
+20-Objeto del contrato
+  "Declara sobre el tema el Código Civil argentino que "toda especie de prestación puede ser objeto de un contrato, sea que consista en una obligación de hacer, sea que consista en la obligación de dar alguna cosa, y, en este último caso, sea que se trate de una cosa presente o de una cosa futura, sea que se trate de la propiedad, del uso o de la posesión de la cosa" (art. 1.168). Con ese carácter más genérico puede afirmarse que son susceptibles de constituir objeto de los contratos todas las cosas o bienes en el comercio de los hombres y todos los servicios no contrarios a la ley o a la moral. (V. OBJETO DEL ACTO JURÍDICO.) 
+  
+  **Objeto del acto jurídico**
+  En la amplia enumeración del Código Civil argentino, tal posibilidad de contenido abarca esta escala de posibilidades: 1") cosas que estén en el comercio; 2") aun no estando en el comercio, que no estén prohibidas; 3") hechos no imposibles ni ilícitos ni inmorales; 4") hechos no prohibidos (redundancia de lo anterior); 5") hechos no contrarios a la libertad de la conciencia o de las acciones; 6") hechos que no perjudiquen a un tercero en sus derechos. (V. OBJETO DE LOS CONTRATOS )"
+
+21-Consentimiento
+  "Ver consentir
+  Permitir algo, condescender en que se haga. | Aceptar una oferta o proposición. | No presentar recurso contra una resolución judicial dentro del término dado para ello. | Obligarse. | Otorgar (Dic. Der. Usual)."
+
+22-Dolo
+  "Del lat. dolus; a su vez, del griego dólos. Comúnmente, mentira, engaño o simulación. | Jurídicamente adquiere tres significados: vicio de la voluntad en los actos jurídicos, elemento de imputabilidad en el incumplimiento de obligaciones, o calificación psicológica exigida como integrante del delito civil o agravante del delito penal. En el primer sentido, el dolo puede definirse, como lo hace el art. 931 del Código Civil argentino: "toda aserción de lo que es falso o disimulación de lo que es verdadero, cualquier artificio, astucia o maquinación que se emplee" para conseguir la ejecución de un acto. El segundo y el tercer sentido de la voz dolo corresponden alo que comúnmente llamamos "intención"; los actos antijurídicos pueden cometerse con la intención de producir un mal o, simplemente, con la previsión del resultado dañoso, aunque no medie intención. (V. CULPA.) Los antijurídicos civiles configuran "delitos" cuando media dolo. v "cuasidelitos" mediando sólo culpa. (v. DELITO DOLOSO )"
+  
+23-Culpa
+  "Luto sensu, la culpabilidad es definida por Jiménez de Asúa como "el conjunto de presupuestos que fundamentan la reprochabilidad personal de la conducta antijurídica". Esa definición viene a coincidir con la acepción académica de la palabra, de "falta más o menos grave cometida a sabiendas y voluntariamente". Claro es que el concepto primeramente señalado es el que encuadra científicamente dentro de la órbita del Derecho Penal; en tanto que el segundo es de un contenido vulgar, jurídicamente discutible, porque puede haber culpa sin voluntariedad en cuanto al resultado del acto delictivo. La coincidencia precitada no va más allá de la determinación de que en toda conducta antijurídica reprochable interviene en el agente una culpabilidad. Ahora bien, esa culpabilidad genérica presenta diversos aspectos, entre los cuales son los principales los que la dividen en dos: la dolosa y la culposa, y de ahí que los delitos se distingan en dolosos y culposos. En cuanto a los primeros, serán examinados al tratar del delito doloso y del dolo (v.). Y en cuanto a la culpa, strictu sensu, referida al delito culposo (v.), es también definida por Jiménez de Asúa al decir que ella existe "cuando se produce un resultado típicamente antijurídico por falta de previsión del deber de conocer, no solo cuando ha faltado al autor la representación del resultado que sobrevendrá, sino también cuando la esperanza de que no sobrevenga ha sido fundamento decisivo de las actividades del autor, que se producen sin querer el resultado antijurídico y sin ratificarlo". En términos generales, puede decirse que actúa con culpa quien causa un daño sin propósito de hacerlo, pero obrando con imprudencia o negligentemente o, pudiera añadirse, con infracción de reglamentos. Es un concepto contrapuesto al dolo, porque, mientras en la culpa la intención está referida a la acción u omisión que causa el daño sin propósito de hacerlo, en el dolo la intención recae sobre el daño mismo que se ocasiona. Uno de los muchos ejemplos de delito culposo es el del automovilista que comete la imprudencia (v.) de marchar a excesiva velocidad, o la negligencia de no haber hecho arreglar los frenos, y atropella a una persona. 
+  En Derecho Civil, la persona que en un acto jurídico obra con culpa, lato sensu, responde por los danos causados y debe repararlos."
+
+24-Error
+  "Falso conocimiento, concepción no acorde con la realidad. El error suele equipararse ala ignorancia, que no es ya el conocimiento falso, sino la ausencia de conocimiento. Uno y otro son vicios de la voluntad, que pueden llegar a causar la nulidad del acto viciado, cuando no haya mediado negligencia por parte de quien incurrió en ellos; es decir, cuando se trata de un error excusable, y sólo cuando recae sobre el motivo principal del acto. Sea o no excusable, el error de derecho no puede alegarse nunca como excusa. En cuanto al Derecho Penal, el error o la ignorancia de hecho no culpable son causas de inimputabilidad (v.)."
+
+25-Negligencia
+  "La omisión, más o menos voluntaria pero consciente, de la diligencia (v.) que corresponde en los actos jurídicos, en los nexos personales y en la guarda o gestión de los bienes. (V. IMPRUDENCIA.)"
+
+26-Buena Fe
+  "La omisión, más o menos voluntaria pero consciente, de la diligencia (v.) que corresponde en los actos jurídicos, en los nexos personales y en la guarda o gestión de los bienes. (V. IMPRUDENCIA.)"
+
+27-Acción
+  "La Academia de la lengua, tomando esta voz en su acepción jurídica, la define como derecho que se tiene a pedir alguna cosa en juicio, y modo legal de ejercitar el mismo derecho, pidiendo en justicia lo que es nuestro o se nos debe. Para Capitant, es el remedio jurídico por el cual una persona o el ministerio público piden a un tribunal la aplicación de la ley a un caso determinado. Y para Couture es el poder jurídico que tiene todo sujeto de derecho, consistente en la facultad de acudir ante los órganos de la jurisdicción, exponiendo sus pretensiones y formulando la petición que afirma como correspondiente a su derecho.
+  
+  Bien se advierte que la acción está referida a todas las jurisdicciones. (V. ACCIONES.)
+  
+  **Acciones**
+  Títulos representativos de las partes de capital que integran las sociedades mercantiles o industriales, constituidas como anónimas, en comandita por acciones, cooperativas y de economía mixta. Las acciones pueden ser, por su titularidad, nominativas, a la orden o al portador, o, según otra terminología, acciones al portador, acciones normativas endosables y acciones nominativas no endosables.
+  
+  Por la calidad de los derechos que confieran, hay acciones ordinarias, preferidas, privilegiadas o diferidas, según que representen el tipo corriente y no tengan ninguna ventaja ni sobre el reparto de los dividendos, ni en la parte de capital en caso de liquidación de la sociedad; que gocen de un interés determinado que ha de pagarse con preferencia con el importe de las utilidades; que al llegar el momento de la liquidación den derecho a cobrar el importe de la acción con preferencia legal sobre los demás accionistas, pudiendo también dar un derecho al cobro de un capital determinado, o que solamente den derecho a percibir dividendos después de que los titulares de las preferidas hayan percibido el beneficio mínimo estatutariamente determinado.
+
+  Por la forma de la aportación del capital, pueden ser acciones de capital, de industria y de trabajo, según que representen un aporte en dinero, en trabajo industrial o en trabajo personal.
+   Llámame acciones o partes de fundador las que se entregan a los socios que han fundado la entidad y que suelen gozar de privilegios o ser gratuitas en su primera asignación; deprima, las cedidas por los fundadores a quienes de algún modo han contribuido a organizar la empresa; liberadas, cuando ha sido totalmente desembolsado su importe de capital. Son acciones de aporte las que se entregan a cambio del valor de bienes muebles o inmuebles que se ingresan en la sociedad; de goce, cuando se entregan a los accionistas que han retirado anticipadamente su capital por la amortización total de sus acciones, Caso en el cual, si se llega a la liquidación de la sociedad, el capital excedente después de cubiertas las cuotas correspondientes alas acciones de capital, se reparte-a prorrata con las acciones de goce. Se denominan de voto plural, privilegiado o preferente aquellas que confieren a su titular un mejor derecho de voto en relación con otros accionistas. (V. ACCIÓN.)"
+
+28-Causa (del contrato)
+  "En materia de obligaciones y de contratos, se conoce como causa, para unos autores, el fin mediato que se busca en el contrato o que produce la obligación; para otros, posiblemente con mejor propiedad, el propósito o razón que motivó a cada una de las partes a celebrar el contrato. La causa constituye un elemento esencial, hasta el punto de que, faltando ella, el contrato no produce ningún efecto. La causa de las obligaciones y contratos tiene que ser verdadera, lícita y no opuesta a la moral y a las buenas costumbres."
+
+29-Naturaleza jurídica
+  "Calificación que corresponde a las relaciones o instituciones jurídicas conforme a los conceptos utilizados por determinado sistema normativo. Así, por ejemplo, la naturaleza jurídica de la sociedad será la de un contrato plurilateral, desde la perspectiva de su constitución, y la de una persona jurídica, desde el ángulo de su existencia como organización."
+  
+30-Derecho comparado
+  "Ciencia cuyo objeto es el estudio de las semejanzas y diferencias entre los ordenamientos jurídicos de dos o más países."
